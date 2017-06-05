@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "spfx-rest-api",
+    "framework": "none",
+    "version": "1.0.2",
+    "libraryId": "8511d690-23b3-4b0f-b4d2-0a0ffd7235cd"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spfxRestApiDemo/SpfxRestApiDemoWebPart.js",
+      "manifest": "./src/webparts/spfxRestApiDemo/SpfxRestApiDemoWebPart.manifest.json",
+      "outputPath": "./dist/spfx-rest-api-demo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spfxRestApiDemoStrings": "webparts/spfxRestApiDemo/loc/{locale}.js"
+  }
+}

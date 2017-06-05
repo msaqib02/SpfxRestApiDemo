@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-rest-api-client-side-solution",
+    "id": "8511d690-23b3-4b0f-b4d2-0a0ffd7235cd",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-rest-api.sppkg"
+  }
+}

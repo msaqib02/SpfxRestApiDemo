@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "cbce80ae-63ae-4af8-97cd-ee744520ae47",
+  "alias": "SpfxRestApiDemoWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "cbce80ae-63ae-4af8-97cd-ee744520ae47",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Spfx Rest API Demo" },
+    "description": { "default": "Spfx Rest API Demo description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Spfx Rest API Demo"
+    }
+  }]
+}
